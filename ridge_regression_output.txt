@@ -1,0 +1,10 @@
+Lambda Value: 1
+Processing Time: 0s
+Memory Usage Before: 272 KB
+Memory Usage After: 272 KB
+Ridge Regression Coefficients:
+⎡  -1.8464208632012404⎤
+ ⎢-0.006936552711162319⎥
+ ⎢   0.2846284734731585⎥
+ ⎢   0.5768989120937404⎥
+ ⎣  0.21879736166877203⎦
